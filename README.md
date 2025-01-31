@@ -1,6 +1,3 @@
-Here’s a professional and detailed `README.md` file for your GitHub repository. It explains the project, how to set it up, and how to use it.
-
----
 
 # Restaurant Recommendation System 🍴
 
@@ -154,13 +151,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Enjoy exploring restaurants! 🍽️
 
 ---
-
-### How to Add to Your Repository
-1. Save the above content as `README.md`.
-2. Place it in the root directory of your GitHub repository.
-3. Push the changes to GitHub:
-   ```bash
-   git add README.md
    git commit -m "Add README file"
    git push origin main
    ```
