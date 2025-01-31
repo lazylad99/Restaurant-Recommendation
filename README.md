@@ -51,7 +51,7 @@ This project is a **Restaurant Recommendation System** that helps users find res
 
 2. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit pandas scikit-learn
    ```
 
 3. Run the Streamlit app:
