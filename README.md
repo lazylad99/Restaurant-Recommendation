@@ -45,7 +45,7 @@ This project is a **Restaurant Recommendation System** that helps users find res
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/restaurant-recommendation-system.git
+   git clone https://github.com/lazylad99/restaurant-recommendation-system.git
    cd restaurant-recommendation-system
    ```
 
@@ -62,7 +62,6 @@ This project is a **Restaurant Recommendation System** that helps users find res
 4. Open the app in your browser:
    ```
    Local URL: http://localhost:8501
-   Network URL: http://<your-ip>:8501
    ```
 
 ---
@@ -137,7 +136,7 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 
 ## License 📄
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]
 
 ---
 
@@ -154,5 +153,3 @@ Enjoy exploring restaurants! 🍽️
    git commit -m "Add README file"
    git push origin main
    ```
-
-Let me know if you need further assistance! 🚀
